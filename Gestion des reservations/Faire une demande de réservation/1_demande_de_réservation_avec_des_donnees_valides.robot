@@ -15,7 +15,7 @@ Demande de réservation avec des données valides
     8. Valider la demande de réservation
     9. Vérifier que la réservation est bien enregistrée
     # 10. Vérifier que l'hôte reçoit une notification de demande de réservation
-    # 11. Vérifier que le voyageur reçoit une confirmation de sa demande
+    # 11. Vérifier que le voyageur reçoit une confirmation de sa demande 
     Close Browser
 
 # Reinitialiser le Test
